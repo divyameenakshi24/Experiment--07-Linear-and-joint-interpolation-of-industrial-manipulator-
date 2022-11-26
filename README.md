@@ -43,6 +43,6 @@ and DRAT studio screen shots for joint interpolation
 ![output](robo.jpg)
 ![output](robo2.jpg)
 
-
+ 
 ### Results:  
 Thus ,linear and joint interpolation of industrial manipulator and program is executed.
